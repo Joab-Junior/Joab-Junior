@@ -4,7 +4,7 @@ Olá, sou Joab, tenho 19 anos e atualmente estou cursando Informática para Inte
 
 As linguagens de programação que domino com maior proficiência incluem **JavaScript, PHP e Lua**. Além disso, tenho bons conhecimentos em **edição audiovisual**, o que me permite trazer uma abordagem técnica e criativa para projetos multimídia, embora eu reconheça que ainda há espaço para melhorar e me especializar nessa área.
 
-Embora não possua experiência profissional no momento, minha paixão por aprender e resolver problemas criativos me leva a buscar constantemente novos desafios e oportunidades. Sou dedicado ao aprendizado contínuo e me adapto rapidamente a diferentes situações e tecnologias.
+Minha paixão por aprender e resolver problemas criativos me leva a buscar constantemente novos desafios e oportunidades. Sou dedicado ao aprendizado contínuo e me adapto rapidamente a diferentes situações e tecnologias.
 
 Estou animado para colaborar em projetos inovadores e impactantes, onde eu possa aplicar minha criatividade, habilidades técnicas e vontade de crescer. Estou sempre em busca de oportunidades que me permitam expandir meus conhecimentos e contribuir para o sucesso de equipes dinâmicas.
 
