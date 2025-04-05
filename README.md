@@ -2,11 +2,9 @@
 
 Olá, sou Joab, tenho 19 anos e atualmente estou cursando Informática para Internet na Etec. Sou apaixonado por tudo que envolve programação, com interesse em diversas áreas além do desenvolvimento. Tenho maior afinidade com **back-end**, mas também me considero um **profissional com capacidades full stack** em desenvolvimento.
 
-As linguagens de programação que domino com maior proficiência incluem **JavaScript, PHP e Lua**. Além disso, tenho bons conhecimentos em **edição audiovisual**, o que me permite trazer uma abordagem técnica e criativa para projetos multimídia, embora eu reconheça que ainda há espaço para melhorar e me especializar nessa área.
+As linguagens de programação que mais tenho conhecimento são **JavaScript, PHP e Lua**. Além disso, tenho bons conhecimentos em **edição audiovisual**, o que me permite trazer uma abordagem técnica e criativa para projetos multimídia, embora eu reconheça que ainda há espaço para melhorar e me especializar nessa área.
 
-Minha paixão por aprender e resolver problemas criativos me leva a buscar constantemente novos desafios e oportunidades. Sou dedicado ao aprendizado contínuo e me adapto rapidamente a diferentes situações e tecnologias.
-
-Estou animado para colaborar em projetos inovadores e impactantes, onde eu possa aplicar minha criatividade, habilidades técnicas e vontade de crescer. Estou sempre em busca de oportunidades que me permitam expandir meus conhecimentos e contribuir para o sucesso de equipes dinâmicas.
+Minha paixão por aprender e resolver problemas criativos me leva a buscar constantemente novos desafios e oportunidades. Sou dedicado ao aprendizado contínuo e me adapto rapidamente a diferentes situações e tecnologias. Estou sempre em busca de oportunidades que me permitam expandir meus conhecimentos.
 
 ---
 
