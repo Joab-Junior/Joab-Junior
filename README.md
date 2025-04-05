@@ -74,8 +74,8 @@ Minha paixão por aprender e resolver problemas criativos me leva a buscar const
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg"
 />
 
-<br>
-<br>
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
