@@ -1,8 +1,8 @@
 # ☄️ Joab Junior
 
-Olá! Sou Joab, tenho 19 anos e sou apaixonado por tudo que envolve programação. Tenho interesse em diversas áreas além do desenvolvimento, mas minha maior afinidade é com o **back-end**. Ainda assim, me considero um **profissional com habilidades full stack**.
+Olá! Sou Joab, tenho 21 anos e sou apaixonado por tudo o que envolve programação. Tenho interesse em diversas áreas além do desenvolvimento, mas minha maior afinidade é com o **back-end**. Ainda assim, me considero um **profissional com habilidades full stack**.
 
-As linguagens que mais domino são **JavaScript, TypeScript, PHP e Lua**. Também tenho bons conhecimentos em **design**, o que me permite unir a técnica à criatividade em projetos visuais — embora reconheça que ainda há espaço para me especializar mais nesse campo.
+As linguagens que mais domino são **JavaScript, TypeScript, PHP e Lua**. Também tenho bons conhecimentos em **design**, o que me permite unir técnica e criatividade em projetos visuais — embora reconheça que ainda haja espaço para me especializar mais nesse campo.
 
 Sou movido pela vontade de aprender e pelo desafio de resolver problemas criativos. Estou sempre em busca de novas oportunidades que me permitam evoluir, me adaptar e crescer profissionalmente.
 
